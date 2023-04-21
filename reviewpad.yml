@@ -1,0 +1,11 @@
+# This file is used to configure Reviewpad.
+# You can use it as a starting point and customize it to your needs.
+# For more details on how to configure Reviewpad, please visit:
+# https://docs.reviewpad.com/guides/syntax
+
+# Extend other Reviewpad configurations using the GitHub blob URLs.
+# Please note that Reviewpad GitHub App needs to be installed on the extended repository.
+extends:
+  # This is the default Reviewpad configuration.
+  # Please do not remove it.
+  - https://github.com/reviewpad/.github/blob/main/reviewpad-models/common.yml
